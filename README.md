@@ -54,7 +54,7 @@ personal-cv
 
 ## 🌐 Live Website
 
-🔗 https://sandipshihire.github.io/personal-cv/
+🔗 [https://sandipshihire.github.io/personal-cv/](https://sandipshihire.github.io/CV-webpage/)
 
 ---
 
